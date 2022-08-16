@@ -1,5 +1,5 @@
 https://www.djangoproject.com/download/1.7c1/tarball/
-djangorestframework==2.3.14
+djangorestframework==3.11.2
 Markdown==2.4.1
 django-filter==2.4.0
 selenium==2.42.1
